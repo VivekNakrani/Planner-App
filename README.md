@@ -1,72 +1,30 @@
-# Getting Started with Create React App
+Planner App !
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+WebApp Link: https://vivek-planner-app.web.app/
 
-## Available Scripts
+Description about Planner App:
 
-In the project directory, you can run:
+Custom-made widgets such as the News Headline Widget, Inspirational Quote Widget, and Task Progress
+Manager Widget are valuable additions to a planner app as they enhance its functionality and user
+experience.
 
-### `npm start`
+The News Headline Widget provides users with real-time updates and keeps them informed about
+current events. It allows users to stay connected to the world while managing their tasks and schedules.
+Users can quickly glance at the latest news headlines within the app, saving them the hassle of switching
+to a separate news app or website.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The Inspirational Quote Widget brings motivation and positivity to users' planning experience. By
+displaying daily inspirational quotes, it encourages users to stay focused, inspired, and determined. Users
+can start their day by reading an uplifting quote and use it as a guiding mantra throughout their planning
+journey.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The Task Progress Manager Widget helps users track their task completion and stay organized. It
+provides a visual representation of task progress, allowing users to prioritize their tasks effectively. Users
+can mark tasks as completed, track their progress, and view an overall completion percentage. This
+widget empowers users to monitor their productivity and motivates them to achieve their goals.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-!!!!!!!!!!!!!!!!!!
+To use these widgets, users can simply add widget to screen. The News Headline Widget can display a
+scrollable list of news headlines, allowing users to click on a headline to read the full article if interested.
+The Inspirational Quote Widget can show a new quote every day, refreshing automatically. Users can
+read and reflect on the quote, finding inspiration and motivation. The Task Progress Manager Widget can
+provide a list of tasks, allowing users to update the status of each task by marking them as complete.
